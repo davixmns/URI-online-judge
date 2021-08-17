@@ -1,1 +1,0 @@
-Questões da plataforma URI online judge resolvidas por mim.
