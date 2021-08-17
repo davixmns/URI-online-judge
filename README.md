@@ -1,1 +1,1 @@
-##Questões da plataforma URI online judge resolvidas por mim.
+Questões da plataforma URI online judge resolvidas por mim.
