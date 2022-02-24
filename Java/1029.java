@@ -1,11 +1,9 @@
-package beecrowd;
-
 import java.util.Scanner;
 import java.io.IOException;
 
 //Problema: https://www.beecrowd.com.br/judge/pt/problems/view/1029
 
-public class Beecrowd_1029 {
+public class Main {
     static class Fibonacci {
         private int calls = 0;
 
