@@ -1,6 +1,8 @@
 import java.io.IOException;
 import java.util.Scanner;
 
+//Problema: https://www.beecrowd.com.br/judge/pt/problems/view/1028
+
 public class Main {
 
     public static int mdc(int a, int b) {
