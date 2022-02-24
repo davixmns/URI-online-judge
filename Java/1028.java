@@ -1,9 +1,7 @@
-package beecrowd;
-
 import java.io.IOException;
 import java.util.Scanner;
 
-public class Beecrowd_1028 {
+public class Main {
 
     public static int mdc(int a, int b) {
         if (b == 0) {
